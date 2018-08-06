@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Fibonacci Indent",
+        "command": "fibonacci-indent:indent"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Fibonacci Indent",
+          "submenu": [
+            {
+              "label": "Indent",
+              "command": "fibonacci-indent:indent"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

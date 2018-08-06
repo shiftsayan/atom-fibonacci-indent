@@ -1,0 +1,5 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-cmd-i": "fibonacci-indent:indent"
+  }
+}

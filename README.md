@@ -5,3 +5,10 @@ This totally-not-a-joke [Atom](https://atom.io/) package indents the selected te
 You can also keybinding `ctrl-alt-cmd-i` to Fibonacci indent your document in real time!
 
 **WARNING:** Python support is still in beta.
+
+### Update
+
+This pioneering technology was published and presented at [SIGBOVIK 2019](http://sigbovik.org/2019).
+
+Read the paper: https://sayan.io/sigbovik2019-paper
+Watch the recording: https://sayan.io/sigbovik2019-video

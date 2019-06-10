@@ -11,4 +11,5 @@ You can also keybinding `ctrl-alt-cmd-i` to Fibonacci indent your document in re
 This pioneering technology was published and presented at [SIGBOVIK 2019](http://sigbovik.org/2019).
 
 Read the paper: https://sayan.io/sigbovik2019-paper
+
 Watch the recording: https://sayan.io/sigbovik2019-video
